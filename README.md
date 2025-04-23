@@ -208,4 +208,5 @@ Respectfully,
 * Lambda Gtz [https://github.com/pedernal]
 * [Zackary Newman](https://github.com/Zman350x)
 * Eyvind Ravnå
+* Varga Miklós
 * Loïc Cerf
